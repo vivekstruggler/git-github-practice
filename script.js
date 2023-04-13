@@ -9,7 +9,7 @@ function headingfunction2() {
 
 }
 function headingfunction3() {
-    // heading1.style.fontSize = '5rem';
+    heading1.style.fontSize = '5rem';
 }
 let heading1 = document.getElementById("heading1");
 heading1.addEventListener('mouseenter', headingfunction);
